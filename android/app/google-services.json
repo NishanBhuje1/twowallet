@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "467973960326",
+    "project_id": "twowallet-95763",
+    "storage_bucket": "twowallet-95763.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467973960326:android:68f026d0cf2aeb8e635707",
+        "android_client_info": {
+          "package_name": "com.twowallet.twowallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467973960326-84kdj1lglepjniol9ebf413kul1ubm56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twowallet.twowallet",
+            "certificate_hash": "553bb83ec3938c73f603b41d58d59ca547db97b5"
+          }
+        },
+        {
+          "client_id": "467973960326-cookm528okbh3g1rg1bb77ed481om5cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twowallet.twowallet",
+            "certificate_hash": "9840fba1add649a11e26d7dfed328eff7fc5f670"
+          }
+        },
+        {
+          "client_id": "467973960326-k8hc12sgi4ogckaq2h06l5tpr3mdkmv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjZV_FmswVoyYGE90JgowtEAONEf4rtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467973960326-k8hc12sgi4ogckaq2h06l5tpr3mdkmv7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467973960326-sb4ohgubc8855s2p1oegi0jhnih9pctd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twowallet.twowallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

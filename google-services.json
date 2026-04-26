@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467973960326",
+    "project_id": "twowallet-95763",
+    "storage_bucket": "twowallet-95763.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467973960326:android:68f026d0cf2aeb8e635707",
+        "android_client_info": {
+          "package_name": "com.twowallet.twowallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjZV_FmswVoyYGE90JgowtEAONEf4rtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

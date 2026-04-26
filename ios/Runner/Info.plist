@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>GIDClientID</key>
+		<string>467973960326-sb4ohgubc8855s2p1oegi0jhnih9pctd.apps.googleusercontent.com</string>
+		
+		<key>CFBundleURLTypes</key>
+		<array>
+			<!-- TwoWallet app scheme -->
+			<dict>
+				<key>CFBundleURLName</key>
+				<string>com.twowallet.twowallet</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.twowallet.twowallet</string>
+					<string>twowallet</string>
+				</array>
+			</dict>
+			<!-- Google Sign In scheme -->
+			<dict>
+				<key>CFBundleURLName</key>
+				<string>Google Sign In</string>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>com.googleusercontent.apps.467973960326-sb4ohgubc8855s2p1oegi0jhnih9pctd</string>
+				</array>
+			</dict>
+		</array>
+
+		<key>CFBundleDevelopmentRegion</key>
+		<string>$(DEVELOPMENT_LANGUAGE)</string>
+		<key>CFBundleDisplayName</key>
+		<string>Twowallet</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>twowallet</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(FLUTTER_BUILD_NAME)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleVersion</key>
+		<string>$(FLUTTER_BUILD_NUMBER)</string>
+		
+		<key>LSRequiresIPhoneOS</key>
+		<true/>
+		
+		<key>UILaunchStoryboardName</key>
+		<string>LaunchScreen</string>
+		<key>UIMainStoryboardFile</key>
+		<string>Main</string>
+		
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		
+		<key>CADisableMinimumFrameDurationOnPhone</key>
+		<true/>
+		<key>UIApplicationSupportsIndirectInputEvents</key>
+		<true/>
+		<key>UIStatusBarHidden</key>
+		<false/>
+		
+		<key>NSLocalNetworkUsageDescription</key>
+		<string>TwoWallet needs to share data with your partner</string>
+		<key>NSBonjourServiceTypes</key>
+		<array>
+			<string>_twowallet._tcp</string>
+		</array>
+	</dict>
+</plist>
