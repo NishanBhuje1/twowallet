@@ -49,6 +49,6 @@ If I rebuilt the backend today, I'd extract the relationship and partner logic i
 
 ## Links
 
-- **Live on Play Store (internal testing):** Contact for access
+- **Live on Play Store (Open testing):** https://play.google.com/store/apps/details?id=com.twowallet.twowallet
 - **Live on TestFlight:** Contact for access
 - **Company:** Built under SoftServe Lab
