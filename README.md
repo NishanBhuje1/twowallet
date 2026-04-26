@@ -1,6 +1,6 @@
 # TwoWallet
 
-A Flutter couples-finance app designed to help partners manage shared expenses, set goals together, and stay aligned on money without the conflict. Currently live on Google Play internal testing and iOS TestFlight.
+A Flutter couples-finance app designed to help partners manage shared expenses, set goals together, and stay aligned on money without the conflict. Currently live on Google Play open testing and iOS TestFlight.
 
 ![Home Screen](screenshots/homescreen.jpeg)
 
